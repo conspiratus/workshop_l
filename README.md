@@ -11,6 +11,7 @@ This repository stores multiple workshop projects in one place.
 ## Current Workshops
 
 - `workshops/LCD1602` - ESP32-C3 example for a 16x2 I2C LCD.
+- `workshops/Transistor` - ESP32-C3 example with a touch button and transistor-switched motor.
 
 ## PlatformIO
 
