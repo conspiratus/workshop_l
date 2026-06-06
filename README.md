@@ -2,6 +2,11 @@
 
 This repository stores multiple workshop projects in one place.
 
+## Setup
+
+See [SETUP.md](SETUP.md) for instructions on installing VS Code, PlatformIO IDE
+and Codex, and creating a project for the Ai-Thinker ESP-C3-M1-I-Kit board.
+
 ## Structure
 
 - `workshops/` contains standalone PlatformIO projects grouped by topic name.
